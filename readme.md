@@ -1,7 +1,3 @@
-# Git Commands
+# Expense Tracker
 
-git init
-git status
-git add
-git commit
-git log
+Unfinished
